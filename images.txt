@@ -6,3 +6,4 @@
 --platform=linux/arm64 portainer/portainer
 --platform=linux/arm64 linkease/linkease
 --platform=linux/arm64 vaultwarden/server
+--platform=linux/arm64 kodcloud/kodbox
