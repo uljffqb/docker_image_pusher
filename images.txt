@@ -8,3 +8,4 @@
 --platform=linux/arm64 vaultwarden/server
 --platform=linux/arm64 kodcloud/kodbox
 --platform=linux/arm64 deluan/navidrome
+--platform=linux/arm64 cloudflare/cloudflared
