@@ -9,5 +9,6 @@
 --platform=linux/arm64 kodcloud/kodbox
 --platform=linux/arm64 deluan/navidrome
 --platform=linux/arm64 cloudflare/cloudflared
---platform=linux/arm64 nginx:1.23-alpine
+--platform=linux/arm64 nginx
 --platform=linux/arm64 php:8.2-fpm
+--platform=linux/arm64 btpanel/baota
