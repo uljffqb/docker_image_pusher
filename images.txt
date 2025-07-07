@@ -12,3 +12,4 @@
 --platform=linux/arm64 nginx
 --platform=linux/arm64 php:8.2-fpm
 --platform=linux/arm64 btpanel/baota
+v2fly/v2fly-core
