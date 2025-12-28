@@ -9,10 +9,8 @@
 --platform=linux/arm64 kodcloud/kodbox
 --platform=linux/arm64 deluan/navidrome
 --platform=linux/arm64 cloudflare/cloudflared
---platform=linux/arm64 nginx
---platform=linux/arm64 php:8.2-fpm
 --platform=linux/arm64 btpanel/baota
 v2fly/v2fly-core
 --platform=linux/arm64 hisatri/lrcapi
---platform=linux/arm64 mlocati/php-nginx:8.2-fpm-alpine
 --platform=linux/arm64 nginx:alpine
+--platform=linux/arm64 bitnami/php-fpm:8.2
