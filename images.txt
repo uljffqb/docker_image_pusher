@@ -15,4 +15,4 @@
 #--platform=linux/arm64 btpanel/baota:9.0_lts_lnmp
 #--platform=linux/arm64 btpanel/baota:9.0_lts_lib
 #--platform=linux/arm64 btpanel/baota:10.0_lts
---platform=linux/arm64 libretranslate/libretranslate:latest
+--platform=linux/arm64 xhongc/music_tag_web:latest
